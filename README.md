@@ -1,2 +1,2 @@
 # Placement-Cell-App
-using React.js, HTML and css
+using Dart, HTML and css
